@@ -57,4 +57,4 @@
 </p>
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Focused on growing as a Full Stack Django Developer
