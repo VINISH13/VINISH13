@@ -1,6 +1,6 @@
 👋 Hey, I'm Vinish  
 
-💻 Django Developer | IT Student  
+💻 Full stack Web Developer | Final-Year B.Tech(Information Technology) 
 📍 Chennai, India  
 
 🚀 I love building web applications and learning new technologies.
