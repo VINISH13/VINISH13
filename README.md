@@ -5,7 +5,6 @@
 
 🚀 I love building web applications and learning new technologies.
 
----
 
 ## ✨ About Me
 
@@ -14,7 +13,6 @@
 - 💡 Interested in AI & Web Technology  
 - 📂 Building real-world projects  
 
----
 
 ## 🛠 Tech Stack
 
