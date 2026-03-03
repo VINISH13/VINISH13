@@ -29,7 +29,7 @@
 
 - 📘 Content Management System (Django)  
 - 📝 Blog Management System  
-- 🔐 Authentication System  
+- 🔐 Resume Analyzer  
 
 
 
